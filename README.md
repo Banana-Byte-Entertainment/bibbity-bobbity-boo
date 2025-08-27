@@ -42,6 +42,10 @@ To explore or modify the game:
 
 This game was conceptualised, designed, and developed by *Banana Byte Entertainment* for a game jam. It is available to download on itch.io.
 
+<a href="https://github.com/Banana-Byte-Entertainment/My-City-Turned-Dystopian-So-I-Started-Vandalising-It/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Banana-Byte-Entertainment/My-City-Turned-Dystopian-So-I-Started-Vandalising-It" alt="contrib.rocks image" />
+</a>
+
 ## License
 
 This project is provided for educational and portfolio purposes. Please [contact the authors](mailto:bananabyteentertainment@gmail.com) for inquiries about reuse or distribution.
