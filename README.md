@@ -1,11 +1,13 @@
 # My City Turned Dystopian So I Started Vandalising It
+![Title Screen](cover.png)
 
 ## About
 
 This is the source code for *My City Turned Dystopian So I Started Vandalising It*, a game developed by *Banana Byte Entertainment*!
 
 This game is an action-adventure hoverboard game that combines skateboarding-style gameplay with urban exploration and creative expression. You, the player, ride a hoverboard through a cyberpunk-styled dystopian city environment, performing tricks on rails and creating graffiti art on various surfaces.
-
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
 ## Project Structure
 
 This is a Unity project built using C#. Key folders:
@@ -31,6 +33,7 @@ To explore or modify the game:
 ## Tech Stack
 
 - Engine: Unity
+- 3D Models: Blender
 - Language: C#
 - Platforms: Windows (32-, 64-bit), macOS (Intel, Apple Silicon), Linux (64-bit)
 - Input: Keyboard and Mouse
